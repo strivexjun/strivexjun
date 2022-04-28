@@ -1,23 +1,11 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=strivexjun&theme=default&show_icons=true"/>
+
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=strivexjun&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=strivexjun&repo=convoychat" />
-</a>
+- 🔭 二进制攻防、逆向、恶意代码分析  
+- ⚡ 安全产品研发，红队武器库研发
+- 🌱 深耕终端安全和数据安全领域
+- 💬 qqmail: 79884260###qq.com  @ 替换 ###
 
-<!--
-**strivexjun/strivexjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
